@@ -5,13 +5,18 @@
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite&logoColor=white)
 ![Tests](https://img.shields.io/badge/Tests-97%20passing-brightgreen)
+![Deploy](https://img.shields.io/github/actions/workflow/status/usermanoj/Tamagotchi-SDD-Claude/deploy.yml?label=deploy)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 ---
 
-## 🎮 Demo
+## 🎮 Live Demo & Video
 
-> 📹 [Watch the gameplay demo video](./demo/demo.webm)
+🌐 **[Play ChuChu live](https://usermanoj.github.io/Tamagotchi-SDD-Claude/)**
+
+📹 **[Watch the gameplay demo video](https://usermanoj.github.io/Tamagotchi-SDD-Claude/demo/demo.webm)**
+
+<video src="https://usermanoj.github.io/Tamagotchi-SDD-Claude/demo/demo.webm" controls width="320"></video>
 
 ---
 
