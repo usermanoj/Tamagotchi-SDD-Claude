@@ -1,0 +1,17 @@
+.btn {
+  background: none;
+  border: 2px solid var(--color-border);
+  border-radius: var(--radius-pill);
+  font-family: var(--font);
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--color-muted);
+  padding: 6px 16px;
+  cursor: pointer;
+  transition: border-color 0.2s ease, color 0.2s ease;
+}
+
+.btn:hover {
+  border-color: #F44336;
+  color: #F44336;
+}
