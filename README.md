@@ -11,7 +11,7 @@
 
 ## 🎮 Demo
 
-> 📹 [Watch the gameplay demo video](./demo/demo.mp4)
+> 📹 [Watch the gameplay demo video](./demo/demo.webm)
 
 ---
 

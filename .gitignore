@@ -25,3 +25,6 @@ npm-debug.log*
 # Misc
 *.zip
 *.docx
+
+# Demo recorder script (keep the video, not the script/deps)
+demo/record-demo.cjs
